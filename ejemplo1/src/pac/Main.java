@@ -13,6 +13,7 @@ public class Main {
 		// TODO Auto-generated method stub
      System.out.println("testing"); 
      System.out.println("otro cambio");
+     int x;
 	}
 
 }
