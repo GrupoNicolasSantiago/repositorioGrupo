@@ -1,9 +1,10 @@
 package pac;
 
 public class Main {
+   int y;
+	public Main(int y) {
 
-	public Main() {
-		// TODO Auto-generated constructor stub
+		this.y = y;
 	}
 
 	/**
